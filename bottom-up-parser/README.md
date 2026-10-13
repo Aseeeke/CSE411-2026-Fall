@@ -58,4 +58,4 @@ Submit the following files via BlackBoard.
 
 ### Submission Deadline
 
-**Due: October 15, 2026; 3:00pm KST**
+**Due: October 20, 2026; 3:00pm KST**
